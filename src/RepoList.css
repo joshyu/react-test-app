@@ -1,0 +1,22 @@
+.RepoList {
+    
+}
+
+.RepoList h1 {
+    color: #444;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.RepoList ol {
+    background: #ffffdd;
+    padding: 10px 50px;
+}
+
+.RepoList ol li {
+    text-align: left;
+    font-size: 12px;
+    line-height: 1.5;
+    color: #555;
+    margin-top: 10px;
+}
